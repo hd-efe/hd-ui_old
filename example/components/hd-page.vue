@@ -74,6 +74,9 @@ export default {
     width: 100%;
     bottom: 0;
     left: 0;
+    .content {
+      padding: 10px;
+    }
   }
 }
 </style>

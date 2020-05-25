@@ -1,9 +1,11 @@
 import {
-    Button
+    Button,
+    Live
 } from './module'
 
 const components = [
     Button,
+    Live
 ]
 
 function install(Vue) {

@@ -28,10 +28,19 @@ export default {
             {
               path: "/button",
               text: "Button"
+            }
+          ]
+        },
+        {
+          name: "业务组件",
+          items: [
+            {
+              path: "/live",
+              text: "Live 卡片"
             },
             {
-              path: "/tips",
-              text: "Tips"
+              path: "/course",
+              text: "Course 卡片"
             }
           ]
         },

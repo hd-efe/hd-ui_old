@@ -1,7 +1,7 @@
 <template>
   <hd-page title="Button">
       <div slot="content">
-          <p>aaa</p>
+          <hd-button>aaa</hd-button>
       </div>
   </hd-page>
 </template>

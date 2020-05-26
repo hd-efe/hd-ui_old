@@ -41,6 +41,10 @@ export default {
             {
               path: "/course",
               text: "Course 卡片"
+            },
+            {
+              path: "/slide",
+              text: "Slide"
             }
           ]
         },

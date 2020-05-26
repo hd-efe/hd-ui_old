@@ -1,11 +1,13 @@
 import {
     Button,
-    Live
+    Live,
+    Slide
 } from './module'
 
 const components = [
     Button,
-    Live
+    Live,
+    Slide
 ]
 
 function install(Vue) {

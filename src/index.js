@@ -1,13 +1,15 @@
 import {
     Button,
     Live,
-    Slide
+    Slide,
+    Course
 } from './module'
 
 const components = [
     Button,
     Live,
-    Slide
+    Slide,
+    Course
 ]
 
 function install(Vue) {

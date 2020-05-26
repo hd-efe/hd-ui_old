@@ -1,5 +1,5 @@
 <template>
-  <hd-page title="Button">
+  <hd-page title="Live 卡片">
     <div slot="content">
       <hd-group>
         <hd-live :obj="live_info"></hd-live>

@@ -1,5 +1,5 @@
 <template>
-  <hd-page title="Button">
+  <hd-page title="Slide">
     <div slot="content">
       <div class="slide-wrapper">
           <hd-slide></hd-slide>
